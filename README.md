@@ -38,7 +38,7 @@ STEP 7
 
 Save the final data set into the file
 
-Program
+
 
 Name:kanimozhi
 Reg no:212221220024
@@ -68,6 +68,9 @@ snb.boxplot(x="Row ID",data=df)
 snb.histplot(x="Ship Mode",data=df)
 snb.countplot(x="Category",data=df)
 */
+
+ 
+ 
 
 
 Output:
